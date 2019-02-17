@@ -1,0 +1,53 @@
+h2 {
+	 background: rgb(245,245,245);
+     color: #427AA1;
+     font-size: 50px;
+}	
+  
+
+a {
+	text-decoration: none;
+	color: #84DCCF;
+	font-size: 40px;
+}
+
+body {
+	font-size: 24px
+}
+
+#header {
+	text-align: center; 
+	background-image: url('images/TIME.jpg');
+	padding: 300px;
+	background-size: cover;
+	color: black;
+}
+
+#header h1 {
+	font-size: 70px;
+
+}
+
+
+.card {
+	font-size: 20px
+}
+
+#footer{
+  padding: 30px;
+  background-color: #2B2C28;
+  color: lightgrey;
+}
+
+#personas {
+	width: 310px;
+}
+
+
+#faster1 {
+	width: 310px;
+}
+
+#exclusive	{
+	width: 395px
+}
